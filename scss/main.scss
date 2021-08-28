@@ -4,19 +4,7 @@
         padding: 0;
 }
 
-.hero{
-        display: flex;
-        width: 100% !important;
+html, body {
         height: 100% !important;
 }
 
-.left-col{
-        flex-basis: 30%;
-        height: 100% !important;
-        background: #e80707;
-}
-
-.right-col{
-        flex-basis: 70%;
-        height: 100% !important;
-}
